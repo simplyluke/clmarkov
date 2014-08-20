@@ -88,6 +88,8 @@ function post_to_twitter(tweet) {
     }
   );
 }
+
+gen_markov();
 // fire off a tweet every 30 minutes
 setInterval(function(){
   gen_markov();
