@@ -1,0 +1,9 @@
+{
+  "description": "Markov chains from craigslist missed connections",
+  "author": "Luke Wright <luke@simplyluke.com>",
+  "dependencies": {
+    "request": "",
+    "cheerio": "",
+    "node-twitter-api": ""
+  }
+}
